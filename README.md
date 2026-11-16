@@ -8,7 +8,6 @@ Ironhack Data Analytics final project, November 2026. **2nd place** among all th
 |---|---|
 | **Live app** | [jobfitcheck.streamlit.app](https://jobfitcheck.streamlit.app/) |
 | **Power BI report** | [download JobMarket.pbix](https://github.com/pietroguido90-design/jobfitcheck/releases/latest/download/JobMarket.pbix) (Power BI Desktop, free) |
-| **Slides** | [`slides/`](slides/) |
 
 ![JobFitCheck Welcome page](images/01_welcome.png)
 
